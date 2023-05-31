@@ -25,4 +25,4 @@ jobs:
     - name: Run Python Script
       run: 
         pip install requests
-        python main.py
+        python Updated_main.py
